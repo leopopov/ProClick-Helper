@@ -60,4 +60,8 @@ dotnet build -c Release
 - Дизайн вдохновлён [G-Helper](https://github.com/seerge/g-helper): размеры, цвета, ползунок и списки повторяют его интерфейс.
 - Протоколы мыши — по открытым проектам OpenRazer, razerqdhid и OpenSnek (ссылки выше).
 
+## Лицензия
+
+[GPL-3.0](LICENSE) — как у G-Helper, логика ползунка и выпадающего списка которого перенесена в проект.
+
 Проект не связан с Razer. Razer и Pro Click — товарные знаки Razer Inc.
