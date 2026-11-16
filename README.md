@@ -54,4 +54,10 @@ dotnet build -c Release
   (Pro Click Mini Receiver, `1532:009A`). Назначение кнопок — по [razerqdhid](https://github.com/geezmolycos/razerqdhid).
 - **Bluetooth (GATT):** служба `52401523-F97C-7F90-0E7F-6C6F4E36DB1C` — по [OpenSnek](https://github.com/gh123man/OpenSnek).
 
+## Благодарности
+
+- Программа разработана с помощью [Claude](https://claude.ai) от Anthropic.
+- Дизайн вдохновлён [G-Helper](https://github.com/seerge/g-helper): размеры, цвета, ползунок и списки повторяют его интерфейс.
+- Протоколы мыши — по открытым проектам OpenRazer, razerqdhid и OpenSnek (ссылки выше).
+
 Проект не связан с Razer. Razer и Pro Click — товарные знаки Razer Inc.
